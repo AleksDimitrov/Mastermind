@@ -1,8 +1,8 @@
 # Mastermind
 
 We have decided to implement the game of Mastermind.
-To run it, simply run either the text version by double-clicking on the MastermindText.bat file,
-or the graphical version by double-clicking on the MastermindGUI.jar file.
+To run it, simply run either the text version by downloading and double-clicking on the MastermindText.bat file,
+or the graphical version by downloading and double-clicking on the MastermindGUI.jar file.
 
 In this game, the computer chooses 4 pegs each with one of 6 colors.  The player's job is then to guess the colors that the computer has chosen in the proper order. After each guess by the player, if the player's guess is not correct, the computer will give two numbers as feedback.  The first number is how many pegs are the proper color and in the proper position. The second number is how many pegs are the proper color, but not in the correct position.
 
